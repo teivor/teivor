@@ -3,7 +3,7 @@
 Full stack developer · IT consultant · Electronic music producer  
 `teivor` on GitHub (and the internet)
 
-![Profile views](https://komarev.com/ghpvc/?username=teivor&color=grey&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=teivor&color=blue&style=flat-square)
 
 I develop custom software and help businesses put technology and AI to practical use. I also use AI throughout development to move faster, from working through an idea to testing the implementation.
 
